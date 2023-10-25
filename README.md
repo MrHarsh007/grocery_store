@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Discover the future of grocery shopping with our innovative Grocery App – a convenient, time-saving, and user-friendly solution for all your daily needs. Experience seamless browsing, personalized recommendations, and effortless ordering, all at your fingertips.
 
 <table>
   <tr>
